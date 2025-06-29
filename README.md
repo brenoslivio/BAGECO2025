@@ -54,7 +54,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgements
 
-If you the code for MathFeature in your work, we would appreciate citations to the following paper:
+If you use the code for MathFeature in your work, we would appreciate citations to the following paper:
 
 ```bash
 @article{10.1093/bib/bbab434,
@@ -71,7 +71,7 @@ If you the code for MathFeature in your work, we would appreciate citations to t
 }
 ```
 
-If you the code for BioAutoML in your work, we would appreciate citations to the following paper:
+If you use the code for BioAutoML in your work, we would appreciate citations to the following paper:
 
 ```bash
 @article{10.1093/bib/bbac218,
